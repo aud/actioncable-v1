@@ -1,24 +1,10 @@
 ## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Dependencies: 
 
-Things you may want to cover:
+- Rails 5.0.0.beta2
+- Ruby 2.3.0
 
-* Ruby version
+#### Run
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rails server`
